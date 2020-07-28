@@ -17,7 +17,7 @@ That is easy.
 
 		```Shell
 		pip install requests
-		pip install BeautifulSoup
+		pip install BeautifulSoup4
 		```
 
 3. find a location you want to store the downloading files of pip library.
